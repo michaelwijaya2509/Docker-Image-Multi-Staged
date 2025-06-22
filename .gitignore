@@ -1,0 +1,16 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+
+# Python
+venv/
+__pycache__/
+
+# React
+js-app/node_modules
+js-app/build
+
+# General
+.DS_Store
+*.log
